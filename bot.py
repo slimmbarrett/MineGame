@@ -2,7 +2,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Вставьте ваш токен сюда
-BOT_TOKEN = '7537994303:AAG15uJYwAmzVINLchNmzIjZ7So95RdkpdI'
+BOT_TOKEN = '8158202881:AAHRytlN_gibZ9EwNQR_civzgxCvSYU4tHI'
 
 # URL вашего Web App
 WEB_APP_URL = 'https://github.com/slimmbarrett/MineGame'
